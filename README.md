@@ -5,10 +5,10 @@ Testing teh webhook.....
 
 ## CICD Infra setup
 1) ###### GitHub setup
-    Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra)     
+    Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/Osahon101/devops-fully-automated-pipeline-terraform-infra.git)     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
-    - **Fork repository "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra.git) & name it "devops-fully-automated-infra"**
+    - **Fork repository "devops-fully-automated-infra" (https://github.com/Osahon101/devops-fully-automated-pipeline-terraform-infra.git) & name it "devops-fully-automated-infra"**
     - Clone your newly created repo to your local
 
 2) ###### Jenkins
